@@ -4,6 +4,6 @@
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
 *.aspnet linguist-detectable=false
-*.aspnet linguist-vendored
+*.ASP.NET linguist-vendored
 
 

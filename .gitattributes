@@ -4,6 +4,8 @@
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
 *.aspnet linguist-detectable=false
-*.ASP.NET linguist-vendored
+# Direct Swift
+*.* linguist-language=Swift
+
 
 
